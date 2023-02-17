@@ -1,0 +1,129 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bannername{
+    font-family: "Helvetica Neue",Helvetica,Arial,;
+    font-size: 20px;
+    font-weight: 700;
+}
+.bimg1{
+    height: 550px;
+    width: 250px;
+}
+.bannertitle{
+    color:transparent;
+}
+.bimg2{
+    height: 550px;
+    width: 80px;
+}
+.main-title{
+    color:red;
+    font-weight: 700;
+    font-size: 80px;
+    background-color: aliceblue;
+    text-align: center; 
+}
+.history{
+    text-decoration: underline;
+    font-size: 25px;
+    color:black;
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 10px;
+    font-style: oblique;
+    
+}
+.historypara{
+    font-weight: 600;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 10px;
+}
+.his1{
+    color: blue;
+}
+.mapimg{
+    width: 480px;
+    height: 580px;
+}
+.placescontainer{
+    margin-top:20px;
+    margin-left: 15px;
+}
+.placetitle{
+    font-size: 30px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+.card-text{
+    font-weight: bold;
+}
+.cardbox1{
+    justify-content: space-between;
+}
+.card2{
+    border:solid black;
+    border-width: 1px;
+}
+.card1{
+    border:solid black;
+    border-width: 1px;
+
+}
+.cardbox2{
+    margin-top: 10px;
+    justify-content: space-between;
+}
+.cardbox3{
+    margin-top: 10px;
+    justify-content: space-between;
+}
+.dispara{
+    margin-top: 20px;
+}
+.devotitle{
+    font-size: 30px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+.cardboxtemple{
+    justify-content: space-between;
+    
+}
+.templecontainer{
+    margin-top:20px;
+    margin-left: 15px;
+}
+.card1 {
+    width: 300px;
+    height: 290px;
+    overflow: hidden;
+}
+  
+.card1:hover img {
+    transform: scale(1.2);
+}
+  
+.card1:hover p {
+    color: #ffff;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.card2 {
+    width: 300px;
+    height: 285px;
+    overflow: hidden;
+}
+  
+.card2:hover img {
+    transform: scale(1.2);
+  }
+  
+.card:hover p {
+    color: #ffff;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.cardboxtemple2{
+    justify-content: space-between;
+    margin-top: 10px;
+}
+  
+  
